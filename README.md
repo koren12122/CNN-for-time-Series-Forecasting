@@ -3,6 +3,9 @@
 
 The goal of the project is to build as accurately as possible a prediction model, which will be able to predict the resource consumption of a given container in K8.
 Time-series data on CPU/Memory usage provided by Prometheus, will be used to learn and forecast future resources usage.
+The model that i choosed is a CNN based on the paper  [Contribution guidelines for this project](https://doi.org/10.1142/S0129065721300011)
+
+
 
 ## Background:
 K8 is an open source software that manages, automates, deploys and hosts containerized applications.
