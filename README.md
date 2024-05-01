@@ -38,6 +38,14 @@ $ python3 install torch
 ```
 
 ### Results
-![Example 1](image1.png)
-![Example 2](image2.png)
+
+Here are a few examples showcasing the performance of the CNNs:
+
+- ![Example 1](image1.png)
+- ![Example 2](image2.png)
+
+### Credits
+
+Special thanks to RedHat for providing the data used in this model. Additionally, appreciation to my partner, @lidorAvital.
+
 
