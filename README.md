@@ -38,6 +38,6 @@ $ python3 install torch
 ```
 
 ### Results
-![Example 1](graph1.png)
-![Example 2](graph2.png)
+![Example 1](image1.png)
+![Example 2](image2.png)
 
