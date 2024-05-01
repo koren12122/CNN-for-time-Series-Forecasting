@@ -1,9 +1,7 @@
 # CNN-for-time-Series-Forecasting
 
-
-The goal of the project is to build as accurately as possible a prediction model, which will be able to predict the resource consumption of a given container in K8.
-Time-series data on CPU/Memory usage provided by Prometheus, will be used to learn and forecast future resources usage.
-The model that i choosed is a CNN based on the paper  [An Experimental Review on Deep Learning Architectures
+The aim of this project is to construct a precise prediction model that can effectively forecast resource consumption in K8. This will be accomplished by utilizing time-series data on CPU/Memory usage gathered from Prometheus. The model will learn from this data and accurately predict future resource usage.
+The model that we choose is a CNN based on the paper  [An Experimental Review on Deep Learning Architectures
 for Time Series Forecasting](https://doi.org/10.1142/S0129065721300011)
 
 
