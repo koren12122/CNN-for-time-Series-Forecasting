@@ -46,6 +46,6 @@ Here are a few examples showcasing the performance of the CNNs:
 
 ### Credits
 
-Special thanks to RedHat for providing the data used in this model. Additionally, appreciation to my partner, @lidorAvital.
+Special thanks to RedHat for providing the data used in this model. Additionally, appreciation to my partner, @lidoravital.
 
 
