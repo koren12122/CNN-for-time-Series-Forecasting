@@ -38,4 +38,6 @@ $ python3 install torch
 ```
 
 ### Results
+![Example 1]([image_url](https://github.com/koren12122/CNN-for-time-Series-Forecasting/blob/master/graph1.png))
+![Example 2]([image_url](https://github.com/koren12122/CNN-for-time-Series-Forecasting/blob/master/graph2.png))
 
